@@ -440,6 +440,7 @@ Wenn der E-Mail-Versand selbst scheitert, stelle Markdown und erzeugte DOCX sowe
 
 # ABSCHLUSSZEILE
 
-Als allerletzte Zeile des vollständigen Markdown-Überblicks und damit zugleich als allerletzte Zeile des E-Mail-Bodys muss exakt folgender Satz erscheinen, nach sämtlichen anderen Inhalten einschließlich Abschnitt 5 und der vollständigen Arbeitsanweisung:
+Als allerletzte und vorletzte Zeile des vollständigen Markdown-Überblicks und damit zugleich als allerletzte und vorletzte Zeile des E-Mail-Bodys muss exakt folgender Satz erscheinen, nach sämtlichen anderen Inhalten einschließlich Abschnitt 5 und der vollständigen Arbeitsanweisung:
 
-Alle KI Anweisungen erhältlich unter: https://gist.github.com/Huluvu424242/7f7d125910b6b957ce122c3f2826578f
+Alle KI Anweisungen erhältlich unter: https://github.com/Huluvu424242/ki-arbeitsauftraege 
+sowie ältere unter: https://gist.github.com/Huluvu424242/7f7d125910b6b957ce122c3f2826578f
