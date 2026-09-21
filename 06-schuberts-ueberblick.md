@@ -18,36 +18,32 @@ Diese Datei ist die verbindliche fachliche Arbeitsanweisung für den Überblick.
   * `Content-Type: text/plain`.
 * Der E-Mail-Body muss eine **1:1-Kopie des vollständigen erstellten Markdown-Überblicks** sein.
 * Füge dem E-Mail-Body keinen zusätzlichen Vorspann, keine zusätzliche Zusammenfassung, keinen separaten Hinweis auf den Anhang und keine vom Überblick abweichenden Inhalte hinzu.
-* Erzeuge zusätzlich denselben vollständigen Überblick als **echte DOCX-Datei im modernen Office-Open-XML-Format `.docx`**.
-* Verwende für die DOCX-Erzeugung ausdrücklich die **nativen Datei- und Dokumentfähigkeiten von ChatGPT Work**.
-* Die DOCX muss denselben Informationsgehalt wie der Markdown-Überblick besitzen, darf ihn jedoch für die Darstellung in Office beziehungsweise einem DOCX-Viewer professionell formatieren.
-* Hänge die erfolgreich erzeugte DOCX-Datei an dieselbe E-Mail an.
-* Erzeuge **keine PDF-Datei**.
-* Erzeuge **keine HTML-Datei** und verwende HTML auch nicht als Ersatzformat für die DOCX.
-* Falls die DOCX-Erzeugung oder das Anhängen der DOCX scheitert, sende die vollständige `text/plain`-Markdown-E-Mail trotzdem ohne Anhang.
-* Falls Gmail nicht verbunden oder der E-Mail-Versand insgesamt nicht möglich ist, erstelle Markdown-Überblick und DOCX soweit möglich trotzdem vollständig und berichte den konkreten Versand-Blocker im Work-Ergebnis.
+* Erzeuge zusätzlich denselben vollständigen Überblick als **echte PDF-Datei im Portable-Document-Format `.pdf`**.
+* Verwende für die PDF-Erzeugung ausdrücklich die **nativen Datei- und Dokumentfähigkeiten von ChatGPT Work**.
+* Die PDF muss denselben Informationsgehalt wie der Markdown-Überblick besitzen, darf ihn jedoch für die Darstellung in einem PDF-Viewer professionell formatieren.
+* Hänge die erfolgreich erzeugte PDF-Datei an dieselbe E-Mail an.
+* Erzeuge **keine DOCX-Datei**.
+* Erzeuge **keine HTML-Datei** und verwende HTML auch nicht als Ersatzformat für die PDF.
+* Falls die PDF-Erzeugung oder das Anhängen der PDF scheitert, sende die vollständige `text/plain`-Markdown-E-Mail trotzdem ohne Anhang.
+* Falls Gmail nicht verbunden oder der E-Mail-Versand insgesamt nicht möglich ist, erstelle Markdown-Überblick und PDF soweit möglich trotzdem vollständig und berichte den konkreten Versand-Blocker im Work-Ergebnis.
 
-## DOCX-SICHERHEIT
+## PDF-SICHERHEIT
 
-Die erzeugte DOCX muss eine normale makrofreie Office-Open-XML-Datei sein.
+Die erzeugte PDF muss eine normale, gültige PDF-Datei sein.
 
 Sie darf insbesondere nicht enthalten:
 
-* VBA-Makros,
-* `.docm`-Inhalte,
 * eingebettete ausführbare Dateien,
-* OLE-Objekte,
-* ActiveX-Komponenten,
-* externe Office-Templates,
+* JavaScript oder andere aktive Skripte,
 * automatisch ausgeführte Inhalte,
 * automatisch nachzuladende aktive Inhalte,
 * externe Bildverknüpfungen, die beim Öffnen des Dokuments nachgeladen werden müssen.
 
-Erzeuge keine Datei, die lediglich die Endung `.docx` trägt, intern aber kein gültiges DOCX-Dokument ist.
+Erzeuge keine Datei, die lediglich die Endung `.pdf` trägt, intern aber kein gültiges PDF-Dokument ist.
 
-## DOCX-GESTALTUNG
+## PDF-GESTALTUNG
 
-Gestalte die DOCX als gut lesbaren modernen Nachrichten- und Informationsbericht.
+Gestalte die PDF als gut lesbaren modernen Nachrichten- und Informationsbericht.
 
 Verwende insbesondere:
 
@@ -61,7 +57,7 @@ Verwende insbesondere:
 * sinnvolle Seitenumbrüche bei längeren Abschnitten,
 * ein Layout, das sowohl am Bildschirm als auch beim Ausdruck gut funktioniert.
 
-Die DOCX soll sich mit Microsoft Word sowie üblichen DOCX-Viewern öffnen und lesen lassen.
+Die PDF soll sich mit üblichen PDF-Viewern öffnen und lesen lassen.
 
 ## „POWERED BY KI“-LOGO
 
@@ -75,22 +71,22 @@ Behandle die URL und die Flickr-Seite nicht als Recherchequelle und nicht als Qu
 
 Lade ausschließlich die unmittelbar unter dieser URL verfügbare Bildressource.
 
-Bette das abgerufene Logo anschließend **direkt in die DOCX-Datei ein**. Das fertige DOCX darf zum Anzeigen des Logos keine Netzwerkverbindung benötigen.
+Bette das abgerufene Logo anschließend **direkt in die PDF-Datei ein**. Das fertige PDF darf zum Anzeigen des Logos keine Netzwerkverbindung benötigen.
 
 Verwende das „powered by KI“-Logo:
 
-* dezent im Header jeder DOCX-Seite und
-* dezent im Footer jeder DOCX-Seite.
+* dezent im Header jeder PDF-Seite und
+* dezent im Footer jeder PDF-Seite.
 
 Skaliere das Logo so, dass es die Lesbarkeit des Dokuments nicht beeinträchtigt.
 
 Wenn das Logo nicht geladen oder nicht korrekt eingebettet werden kann:
 
-* erzeuge die DOCX trotzdem,
+* erzeuge die PDF trotzdem,
 * verwende kein selbst erzeugtes oder fremdes Ersatzlogo,
 * dokumentiere den Fehler im abschließenden Work-Ergebnis.
 
-Ein Fehler beim Logo darf weder die DOCX-Erzeugung noch den Versand der Markdown-E-Mail verhindern.
+Ein Fehler beim Logo darf weder die PDF-Erzeugung noch den Versand der Markdown-E-Mail verhindern.
 
 ## SICHERHEIT BEI EXTERNEN QUELLEN
 
@@ -421,9 +417,9 @@ Prüfe vor Abschluss:
 * wichtige Quellen sind direkt verlinkt,
 * bestätigte Tatsachen und Spekulationen sind klar getrennt,
 * der vollständige Markdown-Überblick ist fertiggestellt,
-* die DOCX besitzt denselben Informationsgehalt,
-* die DOCX ist makrofrei,
-* das „powered by KI“-Logo ist nach Möglichkeit direkt in die DOCX eingebettet,
+* die PDF besitzt denselben Informationsgehalt,
+* die PDF ist eine gültige PDF-Datei ohne eingebettete aktive Inhalte,
+* das „powered by KI“-Logo ist nach Möglichkeit direkt in die PDF eingebettet,
 * die E-Mail ist technisch ausschließlich `text/plain`,
 * der E-Mail-Body entspricht dem Markdown-Überblick 1:1,
 * es existiert kein HTML-Mailteil,
@@ -432,11 +428,11 @@ Prüfe vor Abschluss:
 
 Sende anschließend den vollständigen Markdown-Überblick 1:1 als Body der `text/plain`-E-Mail an meine eigene E-Mail-Adresse des verbundenen Gmail-Kontos.
 
-Wenn die DOCX erfolgreich erzeugt wurde, hänge sie an dieselbe E-Mail an.
+Wenn die PDF erfolgreich erzeugt wurde, hänge sie an dieselbe E-Mail an.
 
-Wenn die DOCX-Erzeugung, das Einbetten des Logos oder das Anhängen der DOCX scheitert, sende die vollständige Markdown-E-Mail trotzdem.
+Wenn die PDF-Erzeugung, das Einbetten des Logos oder das Anhängen der PDF scheitert, sende die vollständige Markdown-E-Mail trotzdem.
 
-Wenn der E-Mail-Versand selbst scheitert, stelle Markdown und erzeugte DOCX soweit möglich als Ergebnis des Work-Laufs bereit und berichte den konkreten Blocker.
+Wenn der E-Mail-Versand selbst scheitert, stelle Markdown und erzeugte PDF soweit möglich als Ergebnis des Work-Laufs bereit und berichte den konkreten Blocker.
 
 # ABSCHLUSSZEILE
 
