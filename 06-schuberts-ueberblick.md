@@ -47,6 +47,7 @@ Gestalte die PDF als gut lesbaren modernen Nachrichten- und Informationsbericht.
 
 Verwende insbesondere:
 
+* ein Inhaltsverzeichnis mit kurzen Abstrakt je Hauptüberschrift
 * eine klare Überschriftenhierarchie,
 * gut lesbare Absätze,
 * sinnvolle Aufzählungen,
@@ -123,6 +124,7 @@ Erfinde keine Meldungen, Quellen, Zahlen, Zitate oder URLs.
 
 Gliedere den Überblick exakt in diese Hauptabschnitte:
 
+I. Inhalt
 0. KI Aufbaustudium HTW Dresden
 1. Technik News
 2. Finanz News
@@ -131,6 +133,12 @@ Gliedere den Überblick exakt in diese Hauptabschnitte:
    4.1 Preise Lebensmittel, Lebenshaltungskosten
    4.2 Inkrafttretende Gesetze Regelungen
 5. Arbeitsanweisung und Urheberhinweis
+
+# ABSCHNITT I - Inhalt
+
+Erstelle hier ein Inhaltsverzeichnis über den gesamten Report. 
+Reichere dieses Inhaltsverzeichnis für die obere Ebene also
+den Hauptüberschriften jeweils mit einem Abstrakt an. 
 
 # ABSCHNITT 0 – KI Aufbaustudium HTW Dresden
 
