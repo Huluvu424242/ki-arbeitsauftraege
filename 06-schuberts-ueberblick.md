@@ -138,7 +138,7 @@ I. Inhalt
 
 Erstelle hier ein Inhaltsverzeichnis über den gesamten Report. 
 Reichere dieses Inhaltsverzeichnis für die obere Ebene also
-den Hauptüberschriften jeweils mit einem Abstrakt an. 
+den Hauptüberschriften jeweils mit einem kompakten Abstrakt an. 
 
 # ABSCHNITT 0 – KI Aufbaustudium HTW Dresden
 
