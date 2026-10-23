@@ -146,12 +146,11 @@ Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der HTW Dresd
 
 Erstelle einen kompakten deutschsprachigen Überblick ausschließlich zu:
 
-* Anmeldefristen Gasthörerschaft
 * Terminen,
 * Stundenplänen,
 * Raumplänen,
 * Bewerbungs-, Immatrikulations- und Einschreibefristen,
-* Gasthörerschaft,
+* Gasthörerschaft und  Anmeldefristen Gasthörerschaft
 * angebotenen KI-Modulen und Lehrveranstaltungen zu Künstlicher Intelligenz oder Maschinellem Lernen,
 * aktuellen KI-bezogenen Veranstaltungen.
 
