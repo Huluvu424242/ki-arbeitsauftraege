@@ -142,10 +142,11 @@ den Hauptüberschriften jeweils mit einem kompakten Abstrakt an.
 
 # ABSCHNITT 0 – KI Aufbaustudium HTW Dresden
 
-Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der HTW Dresden nach aktuellen Informationen zum Wintersemester 2026/27.
+Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der HTW Dresden nach aktuellsten Informationen zum aktuellem und dem folgenden Semester. 
 
 Erstelle einen kompakten deutschsprachigen Überblick ausschließlich zu:
 
+* Anmeldefristen Gasthörerschaft
 * Terminen,
 * Stundenplänen,
 * Raumplänen,
