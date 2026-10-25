@@ -50,6 +50,7 @@ Verwende insbesondere:
 * ein Inhaltsverzeichnis mit kurzen Abstrakt je Hauptüberschrift
 * eine klare Überschriftenhierarchie,
 * gut lesbare Absätze,
+* Hauptüberschriften der Ebene 1,beginnen immer auf einer neuen Seite 
 * sinnvolle Aufzählungen,
 * Tabellen nur dort, wo sie die Übersicht tatsächlich verbessern,
 * zurückhaltende professionelle Formatierung,
