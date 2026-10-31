@@ -128,18 +128,18 @@ Gliedere den Überblick exakt in diese Hauptabschnitte:
 I. Inhalt
 0. KI Aufbaustudium
 1. Technik News
-   1.1 KI 
+   1.1 KI
    1.2 Home Automation
    1.3 unraid server
    1.4 fritzbox und heimnetze
    1.5 lora, lora dresden, meshtastic
    1.6 OSS
-2. Finanz News
-3. Aktuelle Kriege und Krisenherde weltweit
-4. Deutschland News
+3. Finanz News
+4. Aktuelle Kriege und Krisenherde weltweit
+5. Deutschland News
    4.1 Preise Lebensmittel, Lebenshaltungskosten
    4.2 Inkrafttretende Gesetze Regelungen
-5. Arbeitsanweisung und Urheberhinweis
+6. Arbeitsanweisung und Urheberhinweis
 
 # ABSCHNITT I - Inhalt
 
@@ -195,24 +195,50 @@ https://tu-dresden.de/
 
 Erstelle einen täglichen Überblick mit **genau fünf relevanten Meldungen** quer über diese Themen:
 
-## 1.1 KI, LLMs und Agenten,
-Funktionsweise und Training neuronaler Netze
-- Large Language Models und lokale Inferenz
-- Embeddings, Vektorsuche und Retrieval-Augmented Generation
-- Agenten, Werkzeuge und kontrollierte Arbeitsabläufe
-- Knowledge Graphs und hybride Wissenssysteme
-- Datenschutz, Evaluation und Open-Source-KI
+## 1.1 KI, LLMs und Agenten:
+
+   * Funktionsweise und Training neuronaler Netze
+   * Large Language Models und lokale Inferenz
+   * Embeddings, Vektorsuche und Retrieval-Augmented Generation
+   * Agenten, Werkzeuge und kontrollierte Arbeitsabläufe
+   * Knowledge Graphs und hybride Wissenssysteme
+   * Datenschutz, Evaluation und Open-Source-KI
 
 ## 1.2 Home Automation
 
-* Home Assistant, Smart Home
+* Home Assistant
+* Smart Home
+* IKEA Smart Home
+* Matter
 
-1.4 Fritzbox und heimnetz
+## 1.3 Unraid Server
 
-1.6 OSS
+* Updates
+* Neuheiten
+* Handlungsbedarfe
+
+## 1.4 Fritzbox und Heimnetze
+
+* FritzOS
+* Matter
+* IPTV
+* VPN
+
+## 1.5 lora, lora dresden, meshtastic
+
+* Aktivitäten
+* Aktuelle Termine
+* Neue Technologien
+* Neue Geräte
+* Gesetzliche Regelungen
+
+## 1.6 OSS
+
 * Softwareentwicklung und Open Source,
 * IT-Sicherheit und Datenschutz,
-
+* CCC Termine, Veranstaltungen: https://events.ccc.de/
+* CCC Chemnitz, Termine Veranstaltungen, Erfa Kreis, Chaos Treff: https://chaoschemnitz.de/Hauptseite
+* CCC Dresden, Termine Veranstaltungen, Erfa Kreis, GAG18: https://c3d2.de/
 
 Bevorzuge:
 
