@@ -247,6 +247,12 @@ Bevorzuge:
 * wichtige Sicherheitsmeldungen,
 * grundlegende Entwicklungen mit kurzer Einordnung.
 
+Ergänze:
+
+* The Morpheus Videos: https://www.youtube.com/@TheMorpheusVlogs
+* CT3003 Videos: https://www.youtube.com/@ct3003
+* SemperVideo Videos: https://www.youtube.com/@sempervideo
+
 Nutze aktuelle, verlässliche Quellen, vermeide Wiederholungen und erkläre bei jeder Meldung knapp, warum sie relevant ist.
 
 Nimm auch News zur FRITZ!Box und zum Unternehmen AVM mit auf, sofern es relevante Neuigkeiten gibt.
