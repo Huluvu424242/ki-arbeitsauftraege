@@ -129,12 +129,12 @@ I. Inhalt
 
 0. KI Aufbaustudium
 1. Technik News
-    1.1 KI
-    1.2 Home Automation
-    1.3 unraid server
-    1.4 fritzbox und heimnetze
-    1.5 lora, lora dresden, meshtastic
-    1.6 OSS
+   1.1 KI
+   1.2 Home Automation
+   1.3 Unraid Server
+   1.4 Fritzbox und Heimnetze
+   1.5 lora, lora dresden, meshtastic
+   1.6 OSS
 3. Finanz News
 4. Aktuelle Kriege und Krisenherde weltweit
 5. Deutschland News
@@ -198,12 +198,12 @@ Erstelle einen täglichen Überblick mit **genau fünf relevanten Meldungen** qu
 
 ## 1.1 KI, LLMs und Agenten:
 
-   * Funktionsweise und Training neuronaler Netze
-   * Large Language Models und lokale Inferenz
-   * Embeddings, Vektorsuche und Retrieval-Augmented Generation
-   * Agenten, Werkzeuge und kontrollierte Arbeitsabläufe
-   * Knowledge Graphs und hybride Wissenssysteme
-   * Datenschutz, Evaluation und Open-Source-KI
+* Funktionsweise und Training neuronaler Netze
+* Large Language Models und lokale Inferenz
+* Embeddings, Vektorsuche und Retrieval-Augmented Generation
+* Agenten, Werkzeuge und kontrollierte Arbeitsabläufe
+* Knowledge Graphs und hybride Wissenssysteme
+* Datenschutz, Evaluation und Open-Source-KI
 
 ## 1.2 Home Automation
 
