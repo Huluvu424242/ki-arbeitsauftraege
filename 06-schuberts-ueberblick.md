@@ -126,6 +126,7 @@ Erfinde keine Meldungen, Quellen, Zahlen, Zitate oder URLs.
 Gliedere den Überblick exakt in diese Hauptabschnitte:
 
 I. Inhalt
+
 0. KI Aufbaustudium
 1. Technik News
    1.1 KI
