@@ -153,7 +153,7 @@ Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der:
 
 * HTW Dresden
 * TU Dresden
-* TU. Chemnitz 
+* TU Chemnitz 
 
 nach aktuellsten Informationen zum aktuellem und dem folgenden Semester. 
 
