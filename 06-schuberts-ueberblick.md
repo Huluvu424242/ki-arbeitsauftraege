@@ -126,7 +126,7 @@ Erfinde keine Meldungen, Quellen, Zahlen, Zitate oder URLs.
 Gliedere den Überblick exakt in diese Hauptabschnitte:
 
 I. Inhalt
-0. KI Aufbaustudium HTW Dresden
+0. KI Aufbaustudium
 1. Technik News
 2. Finanz News
 3. Aktuelle Kriege und Krisenherde weltweit
@@ -141,9 +141,15 @@ Erstelle hier ein Inhaltsverzeichnis über den gesamten Report.
 Reichere dieses Inhaltsverzeichnis für die obere Ebene also
 den Hauptüberschriften jeweils mit einem kompakten Abstrakt an. 
 
-# ABSCHNITT 0 – KI Aufbaustudium HTW Dresden
+# ABSCHNITT 0 – KI Aufbaustudium
 
-Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der HTW Dresden nach aktuellsten Informationen zum aktuellem und dem folgenden Semester. 
+Recherchiere auf den offiziellen Webseiten und Veröffentlichungen der:
+
+* HTW Dresden
+* TU Dresden
+* TU. Chemnitz 
+
+nach aktuellsten Informationen zum aktuellem und dem folgenden Semester. 
 
 Erstelle einen kompakten deutschsprachigen Überblick ausschließlich zu:
 
@@ -161,7 +167,7 @@ Nenne bei jedem Punkt:
 
 * das konkrete Datum beziehungsweise den Stand,
 * den betroffenen Studiengang oder Personenkreis, soweit erkennbar,
-* einen direkten Link auf die offizielle HTW-Dresden-Quelle.
+* einen direkten Link auf die offizielle Quelle.
 
 Weise ausdrücklich darauf hin, wenn Stunden- oder Raumpläne beziehungsweise Modulangebote noch nicht veröffentlicht wurden.
 
@@ -174,6 +180,10 @@ https://www.htw-dresden.de/hochschule/fakultaeten/info-math/ueber-uns/personen/p
 https://www.htw-dresden.de/hochschule/fakultaeten/info-math/ueber-uns/personen/professuren/prof-dr-boris-hollas/lehrveranstaltungen-im-ss
 
 https://www.htw-dresden.de/hochschule/fakultaeten/info-math/ueber-uns/personen/beschaeftigte/dr-robert-ringel
+
+https://www.tu-chemnitz.de/
+
+https://tu-dresden.de/
 
 # ABSCHNITT 1 – Technik News
 
