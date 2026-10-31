@@ -129,12 +129,12 @@ I. Inhalt
 
 0. KI Aufbaustudium
 1. Technik News
-   1.1 KI
-   1.2 Home Automation
-   1.3 unraid server
-   1.4 fritzbox und heimnetze
-   1.5 lora, lora dresden, meshtastic
-   1.6 OSS
+    1.1 KI
+    1.2 Home Automation
+    1.3 unraid server
+    1.4 fritzbox und heimnetze
+    1.5 lora, lora dresden, meshtastic
+    1.6 OSS
 3. Finanz News
 4. Aktuelle Kriege und Krisenherde weltweit
 5. Deutschland News
