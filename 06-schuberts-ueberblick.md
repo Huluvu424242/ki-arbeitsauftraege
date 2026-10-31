@@ -133,6 +133,7 @@ I. Inhalt
    1.3 unraid server
    1.4 fritzbox und heimnetze
    1.5 lora, lora dresden, meshtastic
+   1.6 OSS
 2. Finanz News
 3. Aktuelle Kriege und Krisenherde weltweit
 4. Deutschland News
@@ -194,10 +195,24 @@ https://tu-dresden.de/
 
 Erstelle einen täglichen Überblick mit **genau fünf relevanten Meldungen** quer über diese Themen:
 
-* KI, LLMs und Agenten,
+## 1.1 KI, LLMs und Agenten,
+Funktionsweise und Training neuronaler Netze
+- Large Language Models und lokale Inferenz
+- Embeddings, Vektorsuche und Retrieval-Augmented Generation
+- Agenten, Werkzeuge und kontrollierte Arbeitsabläufe
+- Knowledge Graphs und hybride Wissenssysteme
+- Datenschutz, Evaluation und Open-Source-KI
+
+## 1.2 Home Automation
+
+* Home Assistant, Smart Home
+
+1.4 Fritzbox und heimnetz
+
+1.6 OSS
 * Softwareentwicklung und Open Source,
 * IT-Sicherheit und Datenschutz,
-* Home Assistant, Smart Home und Heimnetz.
+
 
 Bevorzuge:
 
