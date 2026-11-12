@@ -194,7 +194,7 @@ https://tu-dresden.de/
 
 # ABSCHNITT 1 – Technik News
 
-Erstelle einen täglichen Überblick mit **genau fünf relevanten Meldungen** quer über diese Themen:
+Erstelle einen täglichen Überblick quer über diese Themen:
 
 ## 1.1 KI, LLMs und Agenten:
 
@@ -241,6 +241,56 @@ Erstelle einen täglichen Überblick mit **genau fünf relevanten Meldungen** qu
 * CCC Chemnitz, Termine Veranstaltungen, Erfa Kreis, Chaos Treff: https://chaoschemnitz.de/Hauptseite
 * CCC Dresden, Termine Veranstaltungen, Erfa Kreis, GAG18: https://c3d2.de/
 
+### 1.7 Neue YouTube-Videos
+
+Prüfe bei **jeder täglichen Ausführung ausdrücklich und unabhängig von den fünf Technikmeldungen**, ob auf den folgenden YouTube-Kanälen neue Videos veröffentlicht wurden:
+
+- **The Morpheus:** https://www.youtube.com/@TheMorpheusVlogs
+- **c't 3003:** https://www.youtube.com/@ct3003
+- **SemperVideo:** https://www.youtube.com/@sempervideo
+
+#### Recherche
+
+- Ermittle für jeden der drei Kanäle die neuesten veröffentlichten Videos anhand der offiziellen YouTube-Kanalseite beziehungsweise des zugehörigen YouTube-Feeds.
+- Berücksichtige Veröffentlichungen innerhalb der vergangenen 72 Stunden.
+- Prüfe das tatsächliche Veröffentlichungsdatum jedes Videos.
+- Führe diese Prüfung täglich durch, auch wenn der Kanal in allgemeinen Nachrichtenquellen nicht erwähnt wird.
+- Die Recherche darf nicht allein durch allgemeine Websuchergebnisse ersetzt werden.
+- Berücksichtige alle gefundenen neuen regulären Videos. Shorts, Livestreams und Wiederholungen sind nur aufzunehmen, wenn sie einen eigenständigen relevanten Inhalt besitzen.
+
+#### Darstellung
+
+Erstelle unter der Überschrift **„1.7 Neue YouTube-Videos“** eine kurze Aufstellung.
+
+Nenne für jedes neue Video:
+
+- den Kanalnamen,
+- das Veröffentlichungsdatum,
+- den vollständigen Videotitel,
+- eine kurze deutschsprachige Beschreibung des Inhalts in ein bis zwei Sätzen,
+- den direkten Link zum Video.
+
+Beispiel:
+
+**The Morpheus – [Videotitel]** (12.11.2026)
+
+Neues Video über [Thema]. Es beschäftigt sich insbesondere mit [kurze Beschreibung].
+
+[Video ansehen](https://www.youtube.com/...)
+
+Verzichte auf ausführliche Inhaltsanalysen und Bewertungen.
+
+#### Regeln
+
+- Dieser Unterabschnitt ist unabhängig von den  Technikmeldungen und zählt nicht zu deren Begrenzung.
+- Ein Video muss nicht besonders bedeutsam oder nachrichtenwürdig sein, um aufgenommen zu werden. Entscheidend ist seine Neuveröffentlichung.
+- Wiederhole nach Möglichkeit keine Videos, die bereits in einem vorherigen Überblick aufgeführt wurden.
+- Falls der vorherige Überblick nicht zugänglich ist, verwende das Veröffentlichungsdatum zur zeitlichen Eingrenzung.
+- Falls ein Kanal innerhalb des Recherchezeitraums nichts veröffentlicht hat, genügt die kurze Aussage: „Keine neuen Videos.“
+- Falls ein Kanal technisch nicht überprüft werden kann, kennzeichne dies als „Kanal konnte nicht geprüft werden“, statt daraus zu schließen, dass keine Videos veröffentlicht wurden.
+- Erfinde keine Videotitel, Veröffentlichungsdaten oder Inhaltsbeschreibungen.
+- Wenn sich der Inhalt aus Titel und Beschreibung nicht zuverlässig ermitteln lässt, beschränke die Zusammenfassung auf diese nachweisbaren Angaben.
+
 Bevorzuge:
 
 * neue Werkzeuge und Veröffentlichungen,
@@ -248,11 +298,6 @@ Bevorzuge:
 * wichtige Sicherheitsmeldungen,
 * grundlegende Entwicklungen mit kurzer Einordnung.
 
-Ergänze:
-
-* The Morpheus Videos: https://www.youtube.com/@TheMorpheusVlogs
-* CT3003 Videos: https://www.youtube.com/@ct3003
-* SemperVideo Videos: https://www.youtube.com/@sempervideo
 
 Nutze aktuelle, verlässliche Quellen, vermeide Wiederholungen und erkläre bei jeder Meldung knapp, warum sie relevant ist.
 
